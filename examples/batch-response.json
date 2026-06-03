@@ -1,0 +1,44 @@
+{
+    "model_version": "vision-mod-v3.2.1",
+    "results": [
+        {
+            "id": "img_001",
+            "predictions": [
+                {
+                    "label": "safe",
+                    "probability": 0.98
+                },
+                {
+                    "label": "violence",
+                    "probability": 0.02
+                }
+            ]
+        },
+        {
+            "id": "img_002",
+            "predictions": [
+                {
+                    "label": "adult_content",
+                    "probability": 0.91
+                },
+                {
+                    "label": "safe",
+                    "probability": 0.09
+                }
+            ]
+        },
+        {
+            "id": "img_003",
+            "predictions": [
+                {
+                    "label": "hate_symbol",
+                    "probability": 0.84
+                },
+                {
+                    "label": "safe",
+                    "probability": 0.16
+                }
+            ]
+        }
+    ]
+}

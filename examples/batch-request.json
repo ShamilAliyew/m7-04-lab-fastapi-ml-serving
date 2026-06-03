@@ -1,0 +1,17 @@
+{
+    "top_k": 3,
+    "items": [
+        {
+            "id": "img_001",
+            "image_base64": "BASE64_IMAGE_1"
+        },
+        {
+            "id": "img_002",
+            "image_base64": "BASE64_IMAGE_2"
+        },
+        {
+            "id": "img_003",
+            "image_base64": "BASE64_IMAGE_3"
+        }
+    ]
+}

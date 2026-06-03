@@ -1,0 +1,17 @@
+{
+    "model_version": "vision-mod-v3.2.1",
+    "predictions": [
+        {
+            "label": "safe",
+            "probability": 0.94
+        },
+        {
+            "label": "violence",
+            "probability": 0.04
+        },
+        {
+            "label": "adult_content",
+            "probability": 0.02
+        }
+    ]
+}

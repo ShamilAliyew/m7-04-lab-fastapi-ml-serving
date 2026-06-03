@@ -78,6 +78,9 @@ Write a single `openapi.yaml` file at the repo root using OpenAPI **3.1**. It mu
 
 Your spec must lint clean. Include a `make lint` target or a one-line README command that runs the validator.
 
+npx @redocly/cli lint openapi.yaml
+
+
 ### Task 2 — Example payloads
 
 In `examples/` produce at least these JSON files:
